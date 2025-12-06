@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "開花",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-06T13:49:21.518077Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "開花",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/01_開花_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "開花",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/02_開花_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "개화(開花) (Feat. 김종완 of 넬)",
+      "artist": "Epik High",
+      "has_synced": true,
+      "path": "select/03_개화(開花)_(Feat._김종완_of_넬)_Epik_High.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "開花",
+      "artist": "mol-74",
+      "has_synced": false,
+      "path": "select/04_開花_mol-74.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kaika [開花]",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/05_Kaika_[開花]_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "「開花」〜鬼の巻〜",
+      "artist": "DEVILOOF",
+      "has_synced": false,
+      "path": "select/06_「開花」〜鬼の巻〜_DEVILOOF.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "開花",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_開花_サカナクション.txt"
+    }
+  ]
+}
