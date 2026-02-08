@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "開花",
   "base_artist": "サカナクション",
-  "createdAt": "2025-12-06T13:49:21.518077Z",
+  "createdAt": "2026-02-08T04:53:27.743770Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -51,6 +51,30 @@
       "artist": "DEVILOOF",
       "has_synced": false,
       "path": "select/06_「開花」〜鬼の巻〜_DEVILOOF.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "開花",
+      "artist": "DEVILOOF",
+      "has_synced": false,
+      "path": "select/07_開花_DEVILOOF.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "07 -開花- ユリナの本気パイズリ♪",
+      "artist": "あやめ勝負",
+      "has_synced": true,
+      "path": "select/08_07_-開花-_ユリナの本気パイズリ♪_あやめ勝負.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "06.開花　～花びらキレイ？～",
+      "artist": "人間以外",
+      "has_synced": true,
+      "path": "select/09_06.開花_~花びらキレイ_~_人間以外.lrc"
     },
     {
       "id": "petitlyrics_1",
