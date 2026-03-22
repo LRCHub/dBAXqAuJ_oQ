@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "開花",
   "base_artist": "サカナクション",
-  "createdAt": "2026-02-09T04:05:47.718221Z",
+  "createdAt": "2026-03-22T11:48:34.122152Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -75,6 +75,14 @@
       "artist": "人間以外",
       "has_synced": true,
       "path": "select/09_06.開花_~花びらキレイ_~_人間以外.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "개화(開花)",
+      "artist": "Epik High feat. 김종완",
+      "has_synced": true,
+      "path": "select/10_개화(開花)_Epik_High_feat._김종완.lrc"
     },
     {
       "id": "petitlyrics_1",
